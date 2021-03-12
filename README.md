@@ -1,4 +1,4 @@
-# Binary Classification of Covid Positive Given Covid Vaccination
+# Binary Classification of Covid Positive Given Vaccination
 
 YouTube: https://youtu.be/Rkpv2V6BVWI 
 <br>
