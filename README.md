@@ -1,6 +1,6 @@
 # Binary Classification of Covid Positive Given Vaccination
 
-YouTube: https://youtu.be/Rkpv2V6BVWI 
+YouTube: https://www.youtube.com/watch?v=7EGflL0OKtU&t=135s
 <br>
 DeepNote: https://deepnote.com/project/d6ae7e72-8a51-41d7-9e3d-b1345c1fc514#%2Ffinal.ipynb
 
