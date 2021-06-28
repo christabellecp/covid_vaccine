@@ -2,7 +2,6 @@
 
 YouTube: https://youtu.be/7EGflL0OKtU
 <br>
-DeepNote: https://deepnote.com/project/d6ae7e72-8a51-41d7-9e3d-b1345c1fc514#%2Ffinal.ipynb
 
 
 ## 1. Ask: Research Question / Hypothesis
